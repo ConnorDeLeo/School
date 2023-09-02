@@ -10,7 +10,7 @@ int main() {
     char in[30];
     
     // Out, then In
-    cout << "Roman Numeral:";
+    std::cout << "Roman Numeral:";
     cin.getline(in, 30);
 
     // Assign characters to vector
