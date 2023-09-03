@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    // Input vars
+	// Input vars
     int eid = 0;
     double hours = 0;
     double rate = 0;
