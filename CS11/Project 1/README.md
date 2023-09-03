@@ -1,3 +1,30 @@
+# CS11 - Project 1
+## Task
+Write a simple C++ program that displays a title, "Employee Salary Records." Insert comments in the program to document the program internally.
+## Example Output
+```
+Author's Name, e.g., Tahir Aziz
+
+Program Name, e.g., Aziz_Assign1_Salary.cpp
+
+Date, e.g., Feb. 16th, 2020
+
+College Name, e.g., Long Beach City College (LBCC)
+
+===============================================================
+
+Employee ID: 12345
+
+Hours Worked: 40
+
+Rate per Hour: 20
+
+Gross Salary: $800 / week
+```
+## Code
+### Project 1.cpp
+https://github.com/ConnorDeLeo/School/blob/main/CS11/Project%201/Project%201/Project%201.cpp
+```cpp
 #include <iostream>
 
 using namespace std;
@@ -38,3 +65,6 @@ int main()
 
     return 0;
 }
+```
+## Ouput
+![Ouput](imgs/out.png)
