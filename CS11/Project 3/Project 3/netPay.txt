@@ -1,0 +1,9 @@
+Employee Name:               ConnorDeLeo                                                                                         
+Gross Pay ($):               900       
+Federal Tax ($):             135       
+State Tax ($):               26.77     
+Social Security Tax ($):     42.44     
+Medicare/Medicaid Tax ($):   19.13     
+Pension Plan ($):            33.83     
+Health Insurance ($):        75        
+Net Pay ($):                 567.82    
