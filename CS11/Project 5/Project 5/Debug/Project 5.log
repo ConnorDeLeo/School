@@ -1,0 +1,4 @@
+﻿  Project 5.cpp
+D:\GitHub\School\CS11\Project 5\Project 5\Project 5.cpp(16,12): warning C4309: 'initializing': truncation of constant value
+D:\GitHub\School\CS11\Project 5\Project 5\Project 5.cpp(17,13): warning C4309: 'initializing': truncation of constant value
+  Project 5.vcxproj -> D:\GitHub\School\CS11\Project 5\Debug\Project 5.exe
