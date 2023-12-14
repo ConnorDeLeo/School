@@ -1,0 +1,7 @@
+﻿  Project 9.cpp
+D:\GitHub\School\CS11\Project 9\Project 9\Project 9.cpp(50,1): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\GitHub\School\CS11\Project 9\Project 9\Project 9.cpp(73,27): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\School\CS11\Project 9\Project 9\Project 9.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\School\CS11\Project 9\Project 9\Project 9.cpp(106,27): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\School\CS11\Project 9\Project 9\Project 9.cpp(111,27): warning C4018: '<': signed/unsigned mismatch
+  Project 9.vcxproj -> D:\GitHub\School\CS11\Project 9\Debug\Project 9.exe
