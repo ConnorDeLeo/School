@@ -1,4 +1,4 @@
-# CS11 - Project 2
+# CS11 - Project 3
 ## Task
 Write a program that calculates and prints the monthly paycheck for an employee. The net pay is calculated after taking the following deductions:
 Federal Income Tax: 15%
@@ -9,7 +9,7 @@ Pension Plan: 5%
 Health Insurance $75.00
 
 ## Code
-### Project 2.cpp
+### Project 3.cpp
 https://github.com/ConnorDeLeo/School/blob/main/CS11/Project%203/Project%203/Project%203.cpp
 
 ```cpp
